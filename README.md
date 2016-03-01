@@ -6,5 +6,5 @@ ip lists updated daily from IPDeny.com
 
 
 
-Usaga
+Usage
 ================================================================================
