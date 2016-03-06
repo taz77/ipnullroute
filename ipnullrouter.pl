@@ -1,10 +1,11 @@
 #!/usr/bin/perl -w
 
-### Name:	 filtermaker.pl
-### Author:	 Richard J. Hicks (richard.hicks@gmail.com)
-### Date:	 2010-06-25 (Modified: 2013-06-10)
+### Name:	 ipnullrouter.pl
+### Author: Brady Owens (info@fastglass.net)
+### Date:	 2016-03-06
 ### Description: This program downloads raw data from SPAMHAUS, CYMRU, OKEAN,
-###              and builds Cisco friendly null routes.
+### IPDeny, and builds IP friendly null routes.
+### Original code from:	 Richard J. Hicks (richard.hicks@gmail.com)
 
 
 use strict;
